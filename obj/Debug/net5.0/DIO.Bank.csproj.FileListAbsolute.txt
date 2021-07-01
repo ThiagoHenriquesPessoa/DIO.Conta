@@ -1,0 +1,16 @@
+E:\DIO\MATERIAL DIO\.net\DIO.Bank\bin\Debug\net5.0\DIO.Bank.exe
+E:\DIO\MATERIAL DIO\.net\DIO.Bank\bin\Debug\net5.0\DIO.Bank.deps.json
+E:\DIO\MATERIAL DIO\.net\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.json
+E:\DIO\MATERIAL DIO\.net\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.dev.json
+E:\DIO\MATERIAL DIO\.net\DIO.Bank\bin\Debug\net5.0\DIO.Bank.dll
+E:\DIO\MATERIAL DIO\.net\DIO.Bank\bin\Debug\net5.0\ref\DIO.Bank.dll
+E:\DIO\MATERIAL DIO\.net\DIO.Bank\bin\Debug\net5.0\DIO.Bank.pdb
+E:\DIO\MATERIAL DIO\.net\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.AssemblyReference.cache
+E:\DIO\MATERIAL DIO\.net\DIO.Bank\obj\Debug\net5.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+E:\DIO\MATERIAL DIO\.net\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfoInputs.cache
+E:\DIO\MATERIAL DIO\.net\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfo.cs
+E:\DIO\MATERIAL DIO\.net\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.CoreCompileInputs.cache
+E:\DIO\MATERIAL DIO\.net\DIO.Bank\obj\Debug\net5.0\DIO.Bank.dll
+E:\DIO\MATERIAL DIO\.net\DIO.Bank\obj\Debug\net5.0\ref\DIO.Bank.dll
+E:\DIO\MATERIAL DIO\.net\DIO.Bank\obj\Debug\net5.0\DIO.Bank.pdb
+E:\DIO\MATERIAL DIO\.net\DIO.Bank\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache
